@@ -20,11 +20,11 @@ Additional rules:
 Test layout mirrors source layout:
 
 ```
-src/api/main/java/
+src/api/main/java/com/31-sad/
     domain/
     application/
     infrastructure/
-src/api/test/java/         # Java: same package tree under test/
+src/api/test/java/com/31-sad/         # Java: same package tree under test/
     ...          
 src/app/
     ...
