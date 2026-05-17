@@ -12,11 +12,13 @@ Directory structure:
 
 ```
 src/api/
-    main/java/com/sad/
+    pom.xml
+    src/main/java/com/sad/
         domain/          # VOs, Entities, interfaces
         application/     # Use cases (one per folder)
             {use-case}/
         infrastructure/  # Repository impls, gateways
+    src/test/java/com/sad/   # same package tree as main
 ```
 
 ## 🏆 Benefits

@@ -2,7 +2,8 @@
 
 - Onion Architecture, DDD.
 - Frontend using React in `src/app/`.
-- Backend using Java 25 with Spring Boot and Maven in `src/api/`.
+- Backend using Java 25 with Spring Boot and Maven in `src/api/` (`pom.xml` at module root; standard Maven paths `src/main/java` and `src/test/java`).
+- Base Java package: `com.sad` (directory path `com/sad/` under main and test).
 
 # Documentation
 
