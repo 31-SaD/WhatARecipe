@@ -5,6 +5,8 @@
 target/
 dist/
 bin/
+dist-ssr/
+*.local
 
 # Node modules and dependency files
 node_modules/
@@ -18,12 +20,13 @@ node_modules/
 *.tsbuildinfo
 
 # Logs
+logs
+*.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-# Log file
-*.log
+pnpm-debug.log*
+lerna-debug.log*
 
 # BlueJ files
 *.ctxt
@@ -43,3 +46,14 @@ yarn-error.log*
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
