@@ -1,0 +1,16 @@
+.app {
+  margin: 0 auto;
+  max-width: 40rem;
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+.app h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.status {
+  color: #475569;
+  font-size: 1.125rem;
+}
