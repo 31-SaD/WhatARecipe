@@ -11,11 +11,12 @@ The backend follows Hexagonal Architecture with DDD tactical patterns. Code is o
 Directory structure:
 
 ```
-src/
-    domain/          # VOs, Entities, interfaces
-    application/     # Use cases (one per folder)
-        {use-case}/
-    infrastructure/  # Repository impls, gateways
+src/api/
+    main/java/com/31-sad/
+        domain/          # VOs, Entities, interfaces
+        application/     # Use cases (one per folder)
+            {use-case}/
+        infrastructure/  # Repository impls, gateways
 ```
 
 ## 🏆 Benefits
