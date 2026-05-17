@@ -1,6 +1,27 @@
 # Compiled class file
 *.class
 
+# Executables path
+target/
+dist/
+bin/
+
+# Node modules and dependency files
+node_modules/
+
+# Environment files
+.env*.local
+.env*.development
+.env*.production
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
 # Log file
 *.log
 
