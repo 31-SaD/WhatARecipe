@@ -64,7 +64,7 @@ PostgreSQL with pgvector...
 
 ## 🧐 Real world examples
 
-- 
+- None (For the moment)
 
 ## 🔗 Related agreements
 
