@@ -2,7 +2,7 @@
 
 - Onion Architecture, DDD.
 - Frontend using React in `src/app/`.
-- Backend using Java 25 in `src/api/`.
+- Backend using Java 25 with Spring Boot and Maven in `src/api/`.
 
 # Documentation
 
