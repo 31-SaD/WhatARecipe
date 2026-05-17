@@ -12,7 +12,7 @@ Directory structure:
 
 ```
 src/api/
-    main/java/com/31-sad/
+    main/java/com/sad/
         domain/          # VOs, Entities, interfaces
         application/     # Use cases (one per folder)
             {use-case}/
