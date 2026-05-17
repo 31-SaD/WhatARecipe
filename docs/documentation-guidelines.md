@@ -64,6 +64,7 @@ PostgreSQL with pgvector...
 
 ## 🧐 Real world examples
 
+- [Repository layout (isolated modules)](repo-structure.md)
 - [Test-Driven Development (TDD)](testing/tdd.md)
 - [Hexagonal Architecture and DDD](backend/hexagonal-architecture.md)
 - [Api routes convention](backend/thin-api-routes.md)

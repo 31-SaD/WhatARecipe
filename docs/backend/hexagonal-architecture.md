@@ -40,4 +40,4 @@ src/api/
 
 ## 🔗 Related agreements
 
-- None (For the moment)
+- [Repository layout (isolated modules)](../repo-structure.md)
