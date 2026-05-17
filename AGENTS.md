@@ -2,7 +2,7 @@
 
 - Monorepo with **isolated modules** under `src/` (no root `pom.xml` or `package.json` for apps). See `docs/repo-structure.md`.
 - **Backend** — `src/api/`: own `pom.xml`, Java 25, Spring Boot, Maven. Run `mvn` from `src/api/`.
-- **Frontend** — `src/app/`: own `package.json`, React. Run `npm` from `src/app/`.
+- **Frontend** — `src/app/`: own `package.json`, React with TypeScript. Run `npm` from `src/app/`.
 
 # Architecture
 
